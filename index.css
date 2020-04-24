@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "CustomFont";
+    src: url("Musisync.ttf");
+    }
+
+.input {
+    font-weight: bold;
+    text-align: center;
+    font-size: 35px;
+    font-family: "CustomFont";
+}
+
+p {
+    padding: 0;
+    margin: 0;
+}
